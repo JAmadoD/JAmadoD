@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JAmadoD
-- 👀 I’m interested in ...Game Diesgn and story telling
+- 👀 I’m interested in ...Game Design and story telling
 - 🌱 I’m currently learning ...C# 
 - 💞️ I’m looking to collaborate on ...Video Game productions
 - 📫 How to reach me ...Joshua.Amado.DeCarvalho@gmail.com
